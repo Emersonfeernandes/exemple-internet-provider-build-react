@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/exemple-internet-provider-build-React/static/css/main.531174ec.css",
+    "main.js": "/exemple-internet-provider-build-React/static/js/main.090edcbb.js",
+    "index.html": "/exemple-internet-provider-build-React/index.html",
+    "main.531174ec.css.map": "/exemple-internet-provider-build-React/static/css/main.531174ec.css.map",
+    "main.090edcbb.js.map": "/exemple-internet-provider-build-React/static/js/main.090edcbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.531174ec.css",
+    "static/js/main.090edcbb.js"
+  ]
+}
