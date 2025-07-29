@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/exemple-internet-provider-build-react/static/css/main.531174ec.css",
-    "main.js": "/exemple-internet-provider-build-react/static/js/main.915c51e9.js",
+    "main.js": "/exemple-internet-provider-build-react/static/js/main.194e6ac1.js",
     "index.html": "/exemple-internet-provider-build-react/index.html",
     "main.531174ec.css.map": "/exemple-internet-provider-build-react/static/css/main.531174ec.css.map",
-    "main.915c51e9.js.map": "/exemple-internet-provider-build-react/static/js/main.915c51e9.js.map"
+    "main.194e6ac1.js.map": "/exemple-internet-provider-build-react/static/js/main.194e6ac1.js.map"
   },
   "entrypoints": [
     "static/css/main.531174ec.css",
-    "static/js/main.915c51e9.js"
+    "static/js/main.194e6ac1.js"
   ]
 }
